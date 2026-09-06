@@ -45,6 +45,9 @@ techs/           One folder per technology or invention. Same structure.
 - [Writing](techs/writing/writing.md) &mdash; Invented ~3200 BCE in Uruk, then independently in Egypt, China, and Mesoamerica.
 - [Iron Working](techs/iron-working/iron-working.md) &mdash; Hittites, Anatolia, ~1500&ndash;1200 BCE. Kept secret. Then wasn't.
 - [The Printing Press](techs/printing-press/printing-press.md) &mdash; China 1040 &rarr; Korea 1377 &rarr; Gutenberg 1440.
+- [Currency](techs/currency/currency.md) &mdash; Lydian coins (~630 BCE), Chinese paper money (~900 CE), cowrie shells across 3,000+ years. Money as shared belief.
+- [Mathematics](techs/mathematics/mathematics.md) &mdash; Egyptian/Babylonian foundations, Greek proofs, Indian zero, Islamic algebra. Nobody owns math &mdash; everyone helped build it.
+- [The Compass](techs/compass/compass.md) &mdash; Chinese, Song dynasty navigation (~1040 CE). Rewrote what humans could do with the ocean, for good and for ill.
 
 ## Not in the library
 
