@@ -55,9 +55,11 @@ techs/           One folder per technology or invention. Same structure.
 **Events, battles, and turning points**
 
 - [When Xerxes Tried to Conquer All of Greece](events/xerxes-invasion/xerxes-invasion.md) &mdash; 480&ndash;479 BCE. Thermopylae, Salamis, Plataea. If Persia had won, "Western civilization" as we know it doesn't exist.
+- [The Fall of the Western Roman Empire](events/fall-of-western-rome/fall-of-western-rome.md) &mdash; September 4, 476 CE. The slow, complicated, weird real story of how "Rome fell." Not one thing, over hundreds of years.
 - [The Mongol Sack of Baghdad](events/fall-of-baghdad/fall-of-baghdad.md) &mdash; February 1258. One week that ended the Islamic Golden Age. Hundreds of thousands of unique manuscripts burned. The Tigris ran black with ink.
 - [The Fall of Constantinople](events/fall-of-constantinople/fall-of-constantinople.md) &mdash; May 29, 1453. Ended 2,200 years of the Roman Empire (the eastern half kept going a thousand years past the western). Directly triggered the European Age of Exploration.
 - [Columbus and the Columbian Exchange](events/columbus-1492/columbus-1492.md) &mdash; October 12, 1492. Two halves of the world that had been biologically separate for 10,000 years started swapping everything. Reshaped every human being alive.
+- [The Fall of Tenochtitlán](events/fall-of-tenochtitlan/fall-of-tenochtitlan.md) &mdash; August 13, 1521. Smallpox and a Native alliance ended the Mexica Empire &mdash; Cortés was a small part of the fighting force. The Hollywood version is mostly wrong.
 
 ## Not in the library
 
