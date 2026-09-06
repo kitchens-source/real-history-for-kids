@@ -52,6 +52,13 @@ techs/           One folder per technology or invention. Same structure.
 - [Scientific Theory](techs/scientific-theory/scientific-theory.md) &mdash; Formalized in Baghdad ~1000 CE by Ibn al-Haytham, adopted in Europe ~1600 CE. Still the best procedure humans have for figuring out what's true.
 - [Gunpowder](techs/gunpowder/gunpowder.md) &mdash; Chinese alchemists searching for the elixir of life, ~850 CE. Invented the deadliest chemistry humans had ever mixed instead. Then people started shooting each other with it.
 
+**Events, battles, and turning points**
+
+- [When Xerxes Tried to Conquer All of Greece](events/xerxes-invasion/xerxes-invasion.md) &mdash; 480&ndash;479 BCE. Thermopylae, Salamis, Plataea. If Persia had won, "Western civilization" as we know it doesn't exist.
+- [The Mongol Sack of Baghdad](events/fall-of-baghdad/fall-of-baghdad.md) &mdash; February 1258. One week that ended the Islamic Golden Age. Hundreds of thousands of unique manuscripts burned. The Tigris ran black with ink.
+- [The Fall of Constantinople](events/fall-of-constantinople/fall-of-constantinople.md) &mdash; May 29, 1453. Ended 2,200 years of the Roman Empire (the eastern half kept going a thousand years past the western). Directly triggered the European Age of Exploration.
+- [Columbus and the Columbian Exchange](events/columbus-1492/columbus-1492.md) &mdash; October 12, 1492. Two halves of the world that had been biologically separate for 10,000 years started swapping everything. Reshaped every human being alive.
+
 ## Not in the library
 
 Anything not yet written. Real history is enormous; this library grows one entry at a time, each one verified against real sources before it ships.
