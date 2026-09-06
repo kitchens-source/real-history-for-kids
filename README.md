@@ -32,6 +32,7 @@ techs/           One folder per technology or invention. Same structure.
 - [The West African Empires](civs/mali/mali.md) &mdash; Ghana &rarr; Mali &rarr; Songhai, ~300&ndash;1591 CE. Mansa Musa, Timbuktu, the University of Sankore.
 - [The Haudenosaunee](civs/haudenosaunee/haudenosaunee.md) &mdash; The Iroquois Confederacy, founded ~1142 CE and still going. The Great Law of Peace and its influence on the US Constitution.
 - [The Achaemenid Persian Empire](civs/persia/persia.md) &mdash; 550&ndash;330 BCE. The Cyrus Cylinder, the Royal Road, the idea of tolerance as governance.
+- [India: The Mauryan Empire and Ashoka the Great](civs/india/india.md) &mdash; ~322&ndash;185 BCE. Ashoka's Kalinga War and what he did afterward &mdash; possibly the strangest and most important redemption story in human history.
 
 **Technologies**
 
