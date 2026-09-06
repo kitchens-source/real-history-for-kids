@@ -36,6 +36,9 @@ techs/           One folder per technology or invention. Same structure.
 - [China: Four Thousand Years, One Country](civs/china/china.md) &mdash; Song dynasty golden age (960&ndash;1279 CE) plus 4,000 years of continuous civilization. Almost everything you think Europe invented, China invented earlier.
 - [The Mexica (Aztecs)](civs/aztec/aztec.md) &mdash; Central Mexico, Tenochtitlán 1325&ndash;1521 CE. The honest version &mdash; the astonishing city, the chinampas, the human sacrifice at its real (much lower) scale, and what actually killed the empire (smallpox + Tlaxcalan allies, not Spanish steel).
 - [Egypt (and the African Kingdom That Ruled It)](civs/egypt/egypt.md) &mdash; ~3100 BCE onward. The parts your school books skip: Egypt as an African civilization, the Kingdom of Kush, and the century when Black African pharaohs ruled Egypt (the 25th Dynasty, 747&ndash;656 BCE).
+- [Ancient Greece](civs/greece/greece.md) &mdash; ~800&ndash;146 BCE. Athens with all the asterisks (democracy for 10% of the population), the rest of Greece your books skip, and honest treatment of slavery + the "birthplace of civilization" myth.
+- [Rome](civs/rome/rome.md) &mdash; 753 BCE&ndash;476 CE (West) · 1453 CE (East). The Republic and the cautionary tale of how it died &mdash; which the American Founders read obsessively and every generation has to re-learn.
+- [Arabia and the Islamic Golden Age](civs/arabia/arabia.md) &mdash; 750&ndash;1258 CE. For 500 years, this is where science was actually happening in the world. Not Europe. Algebra, algorithms, optics, medicine, the whole scientific method.
 
 **Technologies**
 
