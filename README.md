@@ -48,6 +48,9 @@ techs/           One folder per technology or invention. Same structure.
 - [Currency](techs/currency/currency.md) &mdash; Lydian coins (~630 BCE), Chinese paper money (~900 CE), cowrie shells across 3,000+ years. Money as shared belief.
 - [Mathematics](techs/mathematics/mathematics.md) &mdash; Egyptian/Babylonian foundations, Greek proofs, Indian zero, Islamic algebra. Nobody owns math &mdash; everyone helped build it.
 - [The Compass](techs/compass/compass.md) &mdash; Chinese, Song dynasty navigation (~1040 CE). Rewrote what humans could do with the ocean, for good and for ill.
+- [Democracy](techs/democracy/democracy.md) &mdash; Athens 508 BCE and the Haudenosaunee Great Law of Peace ~1142 CE. The story your school books mostly leave out is which of those two shaped the US Constitution.
+- [Scientific Theory](techs/scientific-theory/scientific-theory.md) &mdash; Formalized in Baghdad ~1000 CE by Ibn al-Haytham, adopted in Europe ~1600 CE. Still the best procedure humans have for figuring out what's true.
+- [Gunpowder](techs/gunpowder/gunpowder.md) &mdash; Chinese alchemists searching for the elixir of life, ~850 CE. Invented the deadliest chemistry humans had ever mixed instead. Then people started shooting each other with it.
 
 ## Not in the library
 
