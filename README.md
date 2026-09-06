@@ -34,6 +34,8 @@ techs/           One folder per technology or invention. Same structure.
 - [The Achaemenid Persian Empire](civs/persia/persia.md) &mdash; 550&ndash;330 BCE. The Cyrus Cylinder, the Royal Road, the idea of tolerance as governance.
 - [India: The Mauryan Empire and Ashoka the Great](civs/india/india.md) &mdash; ~322&ndash;185 BCE. Ashoka's Kalinga War and what he did afterward &mdash; possibly the strangest and most important redemption story in human history.
 - [China: Four Thousand Years, One Country](civs/china/china.md) &mdash; Song dynasty golden age (960&ndash;1279 CE) plus 4,000 years of continuous civilization. Almost everything you think Europe invented, China invented earlier.
+- [The Mexica (Aztecs)](civs/aztec/aztec.md) &mdash; Central Mexico, Tenochtitlán 1325&ndash;1521 CE. The honest version &mdash; the astonishing city, the chinampas, the human sacrifice at its real (much lower) scale, and what actually killed the empire (smallpox + Tlaxcalan allies, not Spanish steel).
+- [Egypt (and the African Kingdom That Ruled It)](civs/egypt/egypt.md) &mdash; ~3100 BCE onward. The parts your school books skip: Egypt as an African civilization, the Kingdom of Kush, and the century when Black African pharaohs ruled Egypt (the 25th Dynasty, 747&ndash;656 BCE).
 
 **Technologies**
 
